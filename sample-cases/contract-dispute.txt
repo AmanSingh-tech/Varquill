@@ -1,0 +1,21 @@
+CASE: Contract Dispute - Smith vs. TechCorp Inc.
+
+LAWYER A (Smith - Plaintiff):
+My client, John Smith, entered into a contract with TechCorp Inc. on January 15, 2024, for the development of a mobile application. The contract clearly stated that the deliverable was to be completed within 90 days. TechCorp failed to deliver the application by the agreed deadline of April 15, 2024. Despite numerous reminders and a 30-day grace period, the application remains incomplete as of today. Mr. Smith has suffered financial losses amounting to $50,000 due to missed market opportunities. We seek full refund of the $30,000 advance payment plus damages of $50,000.
+
+Key Evidence:
+- Signed contract dated January 15, 2024
+- Email correspondence showing missed deadlines
+- Financial statements showing lost revenue
+- Expert testimony on market timing importance
+
+---
+
+LAWYER B (TechCorp Inc. - Defendant):
+TechCorp acknowledges the contract but argues that Mr. Smith made substantial changes to the project requirements on March 1, 2024, which fundamentally altered the scope of work. These changes were verbally agreed upon with the understanding that the timeline would be extended. Additionally, Mr. Smith failed to provide necessary API credentials and design assets until March 20, 2024, causing a 5-week delay on his end. The application is now 85% complete and will be delivered within 2 weeks. The claimed damages are speculative and not directly attributable to TechCorp's actions.
+
+Key Defense:
+- Documentation of scope changes requested by plaintiff
+- Email trail showing delayed provision of necessary materials
+- Current project status showing near completion
+- Evidence that market conditions, not delay, caused plaintiff's losses
