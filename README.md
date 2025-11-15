@@ -21,14 +21,6 @@ npm install
 
 Create `.env.local`:
 
-```bash
-GEMINI_API_KEY=your_gemini_api_key
-MONGODB_URI=mongodb+srv://user:pass@cluster.mongodb.net/varquill
-```
-
-Get your Gemini API key from: https://aistudio.google.com/app/apikey
-Get MongoDB URI from: https://cloud.mongodb.com (free tier available)
-
 3. **Start dev server**
 
 ```bash
@@ -144,17 +136,7 @@ Open http://localhost:3000
 
 ## 7) Environment Variables
 
-**Required environment variables:**
-
-- **GEMINI_API_KEY** - Google Gemini API key (get from https://aistudio.google.com/app/apikey)
-- **MONGODB_URI** - MongoDB connection string (get from https://cloud.mongodb.com)
-
 Example `.env.local`:
-
-```bash
-GEMINI_API_KEY=AIzaSy...
-MONGODB_URI=mongodb+srv://user:pass@cluster.mongodb.net/varquill?retryWrites=true&w=majority
-```
 
 ## 8) API Endpoints (examples)
 
